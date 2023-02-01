@@ -5,7 +5,7 @@
 
 // for demonstration purpose only
 export default function demo(value) {
-  return value;
+  return `Demo: ${value}`;
 }
 
 //console.log("app.js included");
